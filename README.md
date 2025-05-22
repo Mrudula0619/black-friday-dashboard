@@ -23,4 +23,9 @@ git clone https://github.com/your-username/black-friday-dashboard.git
 cd black-friday-dashboard
 npm install
 npm start
+## 🌍 Live Demo
+
+## 🌍 Live Demo
+
+[Click here to view the dashboard](https://black-friday-dashboard.netlify.app/)
 
