@@ -25,5 +25,6 @@ npm install
 npm start
 ## 🌍 Live Demo
 
-[Click here to view the dashboard](https://black-friday-dashboard.netlify.app/)
+[Click here to view the dashboard](https://black-friday-dashboard.netlify.app)
+
 
