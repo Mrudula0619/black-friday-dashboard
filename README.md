@@ -19,12 +19,10 @@ A full-stack machine learning project that predicts customer spending behavior d
 
 ## 📦 Getting Started
 ```bash
-git clone https://github.com/your-username/black-friday-dashboard.git
+git clone https://github.com/mrudula0619/black-friday-dashboard.git
 cd black-friday-dashboard
 npm install
 npm start
-## 🌍 Live Demo
-
 ## 🌍 Live Demo
 
 [Click here to view the dashboard](https://black-friday-dashboard.netlify.app/)
