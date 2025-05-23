@@ -1,0 +1,16 @@
+  200  mv /actual/path/to/predictions.csv public/
+  201  ls public\n
+  202  /Users/mrudula/black-friday-sales-prediction/black friday sales prediction/predictions.csv\n
+  203  mv "/Users/mrudula/black-friday-sales-prediction/black friday sales prediction/predictions.csv" public/\n
+  204  ls public\n
+  205  npm start\n
+  206  pwd\n
+  207  package.json  src/  public/  node_modules/\n
+  208  pwd\n
+  209  git init\ngit add .\ngit commit -m "Initial commit - Black Friday Predictions Dashboard"\n
+  210  git add README.md\ngit commit -m "Add custom project README"\ngit push\n
+  211  git remote add origin https://github.com/Mrudula0619/black-friday-dashboard.git
+  212  git branch -M main\ngit push -u origin main\n
+  213  :wq
+  214  [200~history > project_commands.txt
+  215  ~nano project_commands.txt\n
