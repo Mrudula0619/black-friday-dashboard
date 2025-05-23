@@ -7,8 +7,7 @@ A full-stack machine learning project that predicts customer spending behavior d
 - 🎯 Trained with Random Forest on historical data
 - ⚛️ Built using React.js and Recharts
 - 🧠 Backend model trained with Python & Scikit-learn
-
-## 📁 Project Structure
+- 📁 Project Structure
 
 ## 🛠 Technologies Used
 - Python (Pandas, Scikit-learn)
@@ -17,7 +16,7 @@ A full-stack machine learning project that predicts customer spending behavior d
 - Jupyter Notebook
 - Git + GitHub for version control
 
-## 📦 Getting Started
+
 
 ## 📦 Getting Started
 
