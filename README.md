@@ -30,6 +30,9 @@ npm start
 
 [Click here to view the dashboard](https://black-friday-dashboard.netlify.app)
 
+## 📸 Screenshot
+
+![Dashboard Preview](https://raw.githubusercontent.com/Mrudula0619/black-friday-dashboard/main/public/dashboard.png)
 
 
 
